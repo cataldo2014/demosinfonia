@@ -30,8 +30,8 @@
                 <i class="icon">
                     @include('partials.icons.circle')
                     </i>
-                <i class="sidenav-mini-icon"> C </i>
-                <span class="item-name">Compras</span>
+                <i class="sidenav-mini-icon"> V </i>
+                <span class="item-name">Ventas</span>
                 </a>
             </li>
             @endcan
